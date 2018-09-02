@@ -8,5 +8,6 @@ Exercise 1
 3. Turn the knob of potentiometer and observe the values logged in Serial Monitor.
 
 Exercise 2
-1 Add an LED to the circuit.
-2 Update the sketch to light-up the LED whenever the temperature is above 32C.
+
+1. Add an LED to the circuit.
+2. Update the sketch to light-up the LED whenever the temperature is above 32C.
